@@ -1,5 +1,6 @@
 
-#brief description 
+#brief description:  
+
  A react application where users can order food and manage their cart.
 
 # Getting Started with Create React App
