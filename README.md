@@ -1,3 +1,7 @@
+
+#brief description 
+ A react application where users can order food and manage their cart.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
